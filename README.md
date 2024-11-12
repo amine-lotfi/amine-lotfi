@@ -1,4 +1,4 @@
-# Hello 👋, I'm Amine Lotfi!
+# 👋 Hello, I'm Amine Lotfi!
 ### A passionate developer who's actively looking to improve his skill set and learn something new.
 
 🌱 I’m currently learning **PHP and MySQ**
