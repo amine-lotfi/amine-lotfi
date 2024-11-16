@@ -4,8 +4,12 @@
 🌱 I’m currently learning: **PHP** 🐘 
 
 🛠️ I'm currently working on: <a href="https://github.com/amine-lotfi/employee-mgmt">Employee Management System</a> & <a href="https://github.com/amine-lotfi/blog-website">Blog Website</a> <br/>
-📌: I'm trying to challenge myself buidling projects using only PHP without the help of any PHP framework to get a good grasp of the language itself 🤓 <br/>
-📌: I'm currently focusing on the logic of the backend, if you don't like the UI, don't worry I'll get to that later 🎨
+📌 I'm trying to challenge myself buidling these using only PHP without the help of any PHP framework in order to get a good grasp of the language itself 🤓 Also, I'm focusing on the logic of the backend, if you don't like the UI, don't worry I'll get to that later 🎨
+
+## 👨🏻‍💻 Technologies I'm Excited to Learn
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) <br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 👀 My projects
 
