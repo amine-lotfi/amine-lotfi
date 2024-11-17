@@ -1,7 +1,8 @@
 ## 💫 About me
 👋 Hello! I'm Amine, a passionate developer who's actively looking to improve his skill set and learn something new 👨🏻‍💻
 
-🌱 Currently learning: **PHP** 🐘 "Monitoring php_error.log in real-time using PowerShell feels good 😎"
+🌱 Currently learning: **PHP** 🐘 
+> Monitoring php_error.log in real-time using PowerShell feels good 😎
 
 🛠️ Currently working on: <a href="https://github.com/amine-lotfi/employee-mgmt">Employee Management System</a> & <a href="https://github.com/amine-lotfi/blog-website">Blog Website</a> <br/>
 📌 I'm trying to challenge myself buidling these using only PHP without the help of any PHP framework in order to get a good grasp of the language itself 🤓 Also, I'm focusing on the logic of the backend, if you don't like the UI, don't worry I'll get to that later 🎨
