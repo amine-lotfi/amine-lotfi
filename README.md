@@ -14,8 +14,8 @@
 ## 👀 My projects
 
 **🐘 PHP & MySQL**
-- Blog Website: <a href="https://github.com/amine-lotfi/employee-mgmt">Code</a> 🛠️
 - Employee Management System: <a href="https://github.com/amine-lotfi/employee-mgmt">Code</a> 🛠️
+- Blog Website: <a href="https://github.com/amine-lotfi/employee-mgmt">Code</a> 🛠️
 - Form Validation: <a href="https://github.com/amine-lotfi/form-validation">Code</a>
 - Submit Feedback Form <a href="https://github.com/amine-lotfi/submit-feedback">Code</a>
 
