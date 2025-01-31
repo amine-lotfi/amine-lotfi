@@ -1,10 +1,6 @@
 ## 💫 About me
 👋 Hello! I am Amine, a passionate developer who's actively looking to improve his skill set and learn something new 👨🏻‍💻
 
-🌱 Currently learning **React Native** ⚛️
-
-🛠️ Currently working on <a href="https://github.com/amine-lotfi/shop-app">Shopping App.</a> It's a React Native App that I'm building while learning this mind-blowing technology 🤯<br/>
-
 ## 👨🏻‍💻 Technologies I'm excited to learn
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) <br/>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br/> ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
